@@ -1,0 +1,16 @@
+{
+  "name": "note-taking-app-v2",
+  "version": "1.0.0",
+  "description": "A modern note-taking application with calendar and flashcard features",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
